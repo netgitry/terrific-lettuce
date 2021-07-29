@@ -11,7 +11,7 @@ sections:
       - label: Subscribe to Podcast
         url: /thank-you
         style: primary
-    image: /images/Harteliefie Logo.png
+    image: /images/IMG_20210729_093900.jpg
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
