@@ -13,7 +13,7 @@ sections:
         style: primary
     image: /images/IMG_20210729_095412.jpg
     image_alt: Hero section placeholder image
-    media_position: top
+    media_position: bottom
     media_width: fifty
     align: left
     padding_top: large
