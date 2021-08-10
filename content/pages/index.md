@@ -2,7 +2,6 @@
 title: Home
 sections:
   - section_id: lorem-ipsum
-    title: lorem-ipsum
     content: |
       ## ![](/images/beige-dolphin.jpg)
     actions: []
