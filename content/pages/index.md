@@ -19,7 +19,6 @@ sections:
     type: cta_section
   - section_id: lorem-ipsum
     title: My work
-    subtitle: lorem-ipsum
     actions: []
     blog_feed_cols: three
     enable_cards: false
