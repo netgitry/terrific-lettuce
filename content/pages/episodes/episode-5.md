@@ -1,5 +1,5 @@
 ---
-title: Apparel Printing
+title: Apparel design & Print
 subtitle: >-
   Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Putabam
   equidem satis, inquit, me dixisse.
