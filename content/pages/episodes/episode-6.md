@@ -3,7 +3,7 @@ title: Themed Birthdays
 subtitle: >-
   Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Putabam
   equidem satis, inquit, me dixisse.
-date: '2021-09-28'
+date: '2021-08-12'
 categories:
   - content/data/categories/season-1.yaml
 thumb_image: /images/themed birthday Website.jpg
