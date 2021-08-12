@@ -3,7 +3,7 @@ title: Apparel design & Print
 subtitle: >-
   Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Putabam
   equidem satis, inquit, me dixisse.
-date: '2020-10-12'
+date: '2020-11-12'
 categories:
   - content/data/categories/season-1.yaml
 thumb_image: /images/apparel Website.jpg
