@@ -3,7 +3,7 @@ title: Printing solutions
 subtitle: >-
   Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Putabam
   equidem satis, inquit, me dixisse.
-date: '2020-11-15'
+date: '2020-12-15'
 categories:
   - content/data/categories/season-1.yaml
 thumb_image: /images/print Website.jpg
