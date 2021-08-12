@@ -3,7 +3,7 @@ title: Branding & Rebranding
 subtitle: >-
   Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Putabam
   equidem satis, inquit, me dixisse.
-date: '2021-07-04'
+date: '2021-08-04'
 categories:
   - content/data/categories/season-2.yaml
 thumb_image: /images/rebrand Website.jpg
